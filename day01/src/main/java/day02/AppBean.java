@@ -8,8 +8,6 @@ public class AppBean {
 	private String lowVersion ;
 	private String upVersion ;
 	
-	
-	
 	public AppBean() {
 		super();
 	}
